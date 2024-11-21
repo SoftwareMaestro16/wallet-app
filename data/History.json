@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "status": "Sent",
+        "receiver_address": "UQp3...Vb4e",
+        "amount": "-2.50 USD₮",
+        "comment": "Thanks",
+        "time": "19.11.24 | 21:45",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 2,
+        "status": "Received",
+        "receiver_address": "UQ1a...VoDf",
+        "amount": "+130.50 TON",
+        "comment": "Good Luck!",
+        "time": "19.11.24 | 20:24",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 3,
+        "status": "Sent",
+        "receiver_address": "UQbN...VKl2",
+        "amount": "-13.37 INFT",
+        "comment": "Salary",
+        "time": "19.11.24 | 16:34",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 4,
+        "status": "Sent",
+        "receiver_address": "UQp3...Vb4e",
+        "amount": "-2.50 USD₮",
+        "comment": "Thanks",
+        "time": "19.11.24 | 21:45",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 5,
+        "status": "Received",
+        "receiver_address": "UQ1a...VoDf",
+        "amount": "+130.50 TON",
+        "comment": "Good Luck!",
+        "time": "19.11.24 | 20:24",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 6,
+        "status": "Sent",
+        "receiver_address": "UQbN...VKl2",
+        "amount": "-13.37 INFT",
+        "comment": "Salary",
+        "time": "19.11.24 | 16:34",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 7,
+        "status": "Sent",
+        "receiver_address": "UQp3...Vb4e",
+        "amount": "-2.50 USD₮",
+        "comment": "Thanks",
+        "time": "19.11.24 | 21:45",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 8,
+        "status": "Sent",
+        "receiver_address": "UQp3...Vb4e",
+        "amount": "-2.50 USD₮",
+        "comment": "Thanks",
+        "time": "19.11.24 | 21:45",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 9,
+        "status": "Received",
+        "receiver_address": "UQ1a...VoDf",
+        "amount": "+130.50 TON",
+        "comment": "Good Luck!",
+        "time": "19.11.24 | 20:24",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    },
+    {
+        "id": 10,
+        "status": "Sent",
+        "receiver_address": "UQbN...VKl2",
+        "amount": "-13.37 INFT",
+        "comment": "Salary",
+        "time": "19.11.24 | 16:34",
+        "image": "https://cdn-icons-png.freepik.com/512/12379/12379299.png"
+    }
+]

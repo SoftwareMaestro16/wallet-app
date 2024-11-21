@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Tonstakers",
+        "description": "High APR 3.77%",
+        "image": "https://static8.tgstat.ru/channels/_0/f6/f689e62df8a097919224c96becf98abf.jpg",
+        "url": "https://tonstakers.com/"
+    },
+    {
+        "id": 2,
+        "name": "Stakee",
+        "description": "Telegram Mini App",
+        "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_devs/photo_2023-11-21_18-35-51.jpg",
+        "url": "https://t.me/StakeeBot/app"
+    },
+    {
+        "id": 3,
+        "name": "TON Whales",
+        "description": "Stake from Whales",
+        "image": "https://pbs.twimg.com/profile_images/1640281084767109120/138QF8w7_400x400.jpg",
+        "url": "https://tonwhales.com/staking"
+    }
+]

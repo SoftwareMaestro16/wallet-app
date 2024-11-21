@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Major",
+        "description": "Become a Telegram Major",
+        "image": "https://ratingforexx.com/wp-content/uploads/2024/08/image1-11.png",
+        "url": "https://t.me/major/start?startapp"
+    },
+    {
+        "id": 2,
+        "name": "Nine Candles",
+        "description": "Special Stickers",
+        "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_devs/photo_2024-07-28_01-03-26.jpg",
+        "url": "https://t.me/NineCandles"
+    },
+    {
+        "id": 3,
+        "name": "Crypto Bot",
+        "description": "Buy, Sell, Store",
+        "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_devs/photo_2024-11-21_00-20-21.jpg",
+        "url": "https://t.me/CryptoBot"
+    }
+]

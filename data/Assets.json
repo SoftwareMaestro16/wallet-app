@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Toncoin",
+        "balance": "20,00",
+        "balance_usd": "$100",
+        "price_token": "$5",
+        "percent_change": "-3.21%",
+        "image": "https://cryptologos.cc/logos/toncoin-ton-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "USD₮",
+        "balance": "1,337.00",
+        "balance_usd": "$1337",
+        "price_token": "$1",
+        "percent_change": "-0.01%",
+        "image": "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp"
+    },
+    {
+        "id": 3,
+        "name": "Infinity",
+        "balance": "15,000.00",
+        "balance_usd": "$500",
+        "price_token": "$2.3",
+        "percent_change": "+5.17%",
+        "image": "https://cache.tonapi.io/imgproxy/Pj8Zn7cD2mRcQ4_5RR3FIJN_sYn8KwYzcJIXy1PCi2A/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pbWFnZXVwLnJ1L2ltZzIyNy80NzY1NDc1L2ltZ18yMDI0MDMxNV8wNzE0MzhfODg1LmpwZw.webp"
+    },
+    {
+        "id": 4,
+        "name": "9C",
+        "balance": "320,00",
+        "balance_usd": "$40240",
+        "price_token": "$125.75",
+        "percent_change": "+6.80%",
+        "image": "https://softwaremaestro16.github.io/nft_collection/folder_for_devs/photo_2024-07-28_01-03-26.jpg"
+    },
+    {
+        "id": 5,
+        "name": "tgBTC",
+        "balance": "1",
+        "balance_usd": "$94000",
+        "price_token": "$94000",
+        "percent_change": "+3.45%",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
+    },
+    {
+        "id": 6,
+        "name": "Major",
+        "balance": "1000",
+        "balance_usd": "$5300",
+        "price_token": "$5.3",
+        "percent_change": "+5.3%",
+        "image": "https://ratingforexx.com/wp-content/uploads/2024/08/image1-11.png"
+    }
+]
