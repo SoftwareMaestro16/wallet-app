@@ -1,6 +1,7 @@
 import { View } from 'react-native';
 import Styles from '../../styles/MainStyles';
 import { NavigButton } from './../shared/NavigatorButtons';
+import React from 'react';
 
 interface BottomNavigButtonsProps {
   navigation: any; 

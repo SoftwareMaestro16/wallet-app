@@ -1,5 +1,6 @@
 import { Pressable, PressableProps, Text, View, Image } from "react-native";
 import ButtonStyles from "../../styles/ButtonStyles";
+import React from "react";
 
 export function Button({text, ...props}: PressableProps & {text: string }) {
     return (

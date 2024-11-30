@@ -1,5 +1,6 @@
 import { Pressable, PressableProps, Text, View, Image } from "react-native";
 import NavigButtonStyles from "../../styles/NavigButtonStyles";
+import React from "react";
 
 export function NavigButton({text, ...props}: PressableProps & {text: string }) {
   return (

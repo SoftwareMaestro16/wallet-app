@@ -5,6 +5,7 @@ import HistoryStyles from '../styles/HistoryStyles';
 import { StackNavigationProp } from '@react-navigation/stack';
 import BottomNavigButtons from './shared/BottomNavigView';
 import HistoryBlocks from './shared/HistoryBlock';
+import React from 'react';
 
 type HistoryScreenNavigationProp = StackNavigationProp<any, 'History'>;
 

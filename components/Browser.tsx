@@ -9,6 +9,7 @@ import TelegramApps from './shared/Apps/TelegramApps';
 import SwapApps from './shared/Apps/SwapApps';
 import StakingApps from './shared/Apps/StakingApps';
 import Catalog from './shared/Apps/Catalog';
+import React from 'react';
 
 type BrowserScreenNavigationProp = StackNavigationProp<any, 'Browser'>;
 

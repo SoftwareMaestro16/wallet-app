@@ -7,6 +7,7 @@ import Assets from './shared/AssetView';
 import BottomNavigButtons from './shared/BottomNavigView'; 
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useEffect, useState } from 'react';
+import React from 'react';
 
 type HomeScreenNavigationProp = StackNavigationProp<any, 'Home'>;
 
